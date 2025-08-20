@@ -1,36 +1,37 @@
-🔹 «Обо мне»
+🔹 "About me"
 
-Привет! Я — Telegram-разработчик на aiogram 3, делаю ботов с нуля под любые задачи.
-Сейчас я только выхожу на рынок заказов — уже умею делать стабильных ботов со строгой типизацией, с базой данных на SQLAlchemy, с корзиной, админкой и заказами.
-Стиль кода — чистый, с аннотациями и асинхронными функциями. Код легко поддерживать и развивать.
-Работаю быстро, не теряюсь и всегда докручиваю детали.
+Hello! I'm a Telegram developer on aiogram 3, I make bots from scratch for any tasks. Now I'm just entering the order market - I already know how to make stable bots with strict typing, with a database on SQLAlchemy, with a basket, admin and orders. The code style is clean, with annotations and asynchronous functions. The code is easy to maintain and develop. I work fast, I don't get lost and always finish the details.
 
-🔹 Навыки
-• ✅ aiogram 3 (актуальная архитектура)
-• ✅ БД: SQLAlchemy + aiosqlite
-• ✅ Строгая типизация, async-функции, builder-клавиатуры
-• ✅ Корзина товаров и оформление заказов без FSM
-• ✅ Инлайн-кнопки, парсинг, уведомления админам
+🔹 Skills • ✅ aiogram 3 (current architecture) • ✅ DB: SQLAlchemy + aiosqlite • ✅ Strict typing, async functions, builder keyboards • ✅ Shopping cart and ordering without FSM • ✅ Inline buttons, parsing, notifications to admins
 
-💬 Индивидуальные задачи обсуждаются — пиши на мою почту 👉 zackirov.abdurahmon@yandex.com и я скажу, сколько и за сколько.
+💬 Individual tasks are discussed - write to my mail 👉 zackirov.abdurahmon@yandex.com and I will tell you how much and for how much.
 
+🔹 Structure of my demo bot:
 
-🔹 Структура моего демо бота:
-# Telegram бот под заказ
+Telegram bot to order
 
-Простой Telegram-бот на aiogram 3, реализующий заказ товаров без FSM:
-- SQLAlchemy + aiosqlite
-- Строгая типизация, async-функции
-- Корзина, админка, уведомления
+A simple Telegram bot on aiogram 3 that implements the order of goods without FSM:
 
-🛠 Разработано в моём стиле: builder-клавиатуры, чистый асинхронный код.
+SQLAlchemy + aiosqlite
 
-## Структура
-- `main.py` — запуск бота
-- `handlers.py` — обработчики
-- `keyboards.py` — клавиатуры
-- `models.py` — модели SQLAlchemy
-- `requests.py` — работа с БД
+Strict typing, async functions
 
-## Контакты
+Cart, admin, notifications
+
+🛠 Developed in my style: builder keyboards, pure asynchronous code.
+
+Structure
+
+Main.py — bot launch
+
+Handlers.py - handlers
+
+Keyboards.py — keyboards
+
+Models.py — SQLAlchemy models
+
+Requests.py — working with the database
+
+Contacts
+
 📬 zackirov.abdurahmon@yandex.com
