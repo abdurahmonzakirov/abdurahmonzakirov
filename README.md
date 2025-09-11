@@ -7,15 +7,21 @@ I’m a developer who has taken Aiogram 3 to the next level.
 For me, Telegram bots are not just side        projects — they are full-scale, production- ready solutions that can:
 
  • 🤖 Automate workflows
+
  • 🌍 Engage thousands of users
+
  • 💼 Bring real value to businesses and communities.
 
 ⚡ What I Do
 
  • 💻 Build fast, reliable, and scalable bots
+
  • 🔗 Seamlessly integrate with APIs, databases, and third-party services
+
  • 🧩 Design advanced FSM logic, custom filters, and middlewares
+
  • 🏗 Create bots with clean architecture and professional polish
+
  • 🚀 Push the limits of what Telegram bots can do
 
 🎯 My Vision
