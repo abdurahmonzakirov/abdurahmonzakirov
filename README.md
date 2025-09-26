@@ -22,7 +22,7 @@ For me, Telegram bots are not just side        projects — they are full-scale,
 
  • 🏗 Create bots with clean architecture and professional polish
 
- • 🚀 Push the limits of what Telegram bots can do
+ • 🚀 Push the limits of what Telegram bots can do.
 
 🎯 My Vision
 
