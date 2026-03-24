@@ -33,6 +33,6 @@ From lightweight assistants to complex ecosystems with analytics and integration
 
 💡 Got an idea? Want to collaborate? Let’s make it real.
 
-📧 zackirov.abdurahmon@yandex.com
+📧 t.me/zokirovjavlon
 
 ⭐ Don’t forget to star my repositories — every star is fuel for new projects!
